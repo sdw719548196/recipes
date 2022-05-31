@@ -1,6 +1,6 @@
 ## Ingredients
-avacado
-lemon
+avacado(have)
+lemon(have)
 salt
 second changes
 ## Ins
