@@ -1,6 +1,6 @@
-In
+## Ingredients
 avacado
 lemon
 salt
 second changes
-Ins
+## Ins
